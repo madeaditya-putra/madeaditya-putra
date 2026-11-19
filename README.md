@@ -18,10 +18,10 @@
 
 ## 👨‍💻 自己紹介 | About Me
 
-- 👋 こんにちは！武虎（Take-tora）です。
+- 👋 こんにちは！武虎（プトラ）です。
 - 💻 Full Stack Developer
 - 🏢 株式会社オープンセサミ・テクノロジー
-- 🌱 Web Development と Artificial Intelligence を学習中です。
+- 🌱 Web Development と AI を学習中です。
 - 🚀 フロントエンドからバックエンドまで幅広く開発に取り組んでいます。
 - 🎯 新しい技術を学び、実践的なプロジェクトを通して成長することを目指しています。
 
