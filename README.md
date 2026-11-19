@@ -1,5 +1,3 @@
-# OST-madeaditya-putra
-
 <h1 align="center">こんにちは、武虎です 👋</h1>
 
 <h3 align="center">
